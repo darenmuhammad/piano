@@ -6,12 +6,12 @@ Dalam kursus ini, saya mempelajari **CSS Advanced Properties: `::before`, `::aft
 ## 📌 Overview
 Dokumen ini menjelaskan empat properti penting dalam CSS yang sering digunakan dalam pengembangan web.
 
-|Property           | Deskripsi | Contoh |
-|--------------------|-----------|--------|
-| `::before`         | Pseudo-element yang menambahkan konten sebelum elemen utama. | `p::before { content: '★ '; }` |
-| `::after`          | Pseudo-element yang menambahkan konten setelah elemen utama. | `p::after { content: ' ✔'; }` |
-| `media-query`      | Digunakan untuk membuat tampilan responsif berdasarkan ukuran layar. | `@media (max-width: 600px) { body { background-color: lightgray; } }` |
-| `float`            | Mengatur posisi elemen agar berada di sisi kiri atau kanan. | `.image { float: left; margin-right: 10px; }` |
+|Property     | Deskripsi |
+|-------------|-----------|
+| `::before`  | Pseudo-element yang menambahkan konten sebelum elemen utama. |
+| `::after`   | Pseudo-element yang menambahkan konten setelah elemen utama. |
+| `media-query`| Digunakan untuk membuat tampilan responsif berdasarkan ukuran layar. |
+| `float`     | Mengatur posisi elemen agar berada di sisi kiri atau kanan. | 
 
 ## 📝 Detail Pembelajaran
 
