@@ -1,16 +1,17 @@
-# piano
+# 🎹 ***Piano***
 
-# CSS Advanced Properties: `::before`, `::after`, `media-query`, and `float`
+Selamat datang di dokumentasi **Piano** dari mengkiuti kelas *Responsive Web Design* oleh freeCodeCamp!  
+Dalam kursus ini, saya mempelajari **CSS Advanced Properties: `::before`, `::after`,`float`, and `media-query`** untuk membuat tampilan yang menarik dan interaktif. 🚀
 
 ## 📌 Overview
 Dokumen ini menjelaskan empat properti penting dalam CSS yang sering digunakan dalam pengembangan web.
 
-| Property      | Deskripsi | Contoh |
-|---------------|-----------|---------|
-| `::before`    | Pseudo-element yang menambahkan konten sebelum elemen utama. | `p::before { content: '★ '; }` |
-| `::after`     | Pseudo-element yang menambahkan konten setelah elemen utama. | `p::after { content: ' ✔'; }` |
-| `media-query` | Digunakan untuk membuat tampilan responsif berdasarkan ukuran layar. | `@media (max-width: 600px) { body { background-color: lightgray; } }` |
-| `float`       | Mengatur posisi elemen agar berada di sisi kiri atau kanan. | `.image { float: left; margin-right: 10px; }` |
+|Property           | Deskripsi | Contoh |
+|--------------------|-----------|--------|
+| `::before`         | Pseudo-element yang menambahkan konten sebelum elemen utama. | `p::before { content: '★ '; }` |
+| `::after`          | Pseudo-element yang menambahkan konten setelah elemen utama. | `p::after { content: ' ✔'; }` |
+| `media-query`      | Digunakan untuk membuat tampilan responsif berdasarkan ukuran layar. | `@media (max-width: 600px) { body { background-color: lightgray; } }` |
+| `float`            | Mengatur posisi elemen agar berada di sisi kiri atau kanan. | `.image { float: left; margin-right: 10px; }` |
 
 ## 📝 Detail Pembelajaran
 
@@ -49,9 +50,6 @@ img {
   margin-right: 10px;
 }
 ```
+---
 
-## 🎯 Kesimpulan
-Dengan memahami `::before`, `::after`, `media-query`, dan `float`, kita bisa membuat tampilan yang lebih dinamis dan menarik dalam pengembangan website.
-
-🚀 **Happy Coding!**
-
+© 2025 | **Piano Project**
